@@ -1,0 +1,1 @@
+SELECT DISTINCT CITY FROM STATION WHERE ID % 2=0;#Distinct is used to exclude duplicate values
